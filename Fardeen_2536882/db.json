@@ -1,0 +1,20 @@
+{
+  "employee": [
+    {
+      "id": 1,
+      "name": "Fardeen",
+      "cardNumber": "1234123412341234",
+      "date": "2023-04-29",
+      "cvv": "123",
+      "userid": "1"
+    },
+    {
+      "id": 2,
+      "name": "Apra",
+      "cardNumber": "6789678912346789",
+      "date": "2023-04-30",
+      "cvv": "405",
+      "userid": "2"
+    }
+  ]
+}
